@@ -1,0 +1,25 @@
+body{
+text-align: center;
+ background-color:white;
+}
+
+div{
+margin-top:
+}
+h1{
+    text-align: center;
+}
+
+.image-section{
+
+display: flex;
+justify-content: center;
+border-color: brown;
+}
+.section-style{
+margin-right:15px;
+margin-left: 15px;
+margin-top: 15px;
+margin-bottom: 15px;
+background-color: deepskyblue;
+}
